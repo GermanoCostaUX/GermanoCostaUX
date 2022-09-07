@@ -1,24 +1,40 @@
-- 👋 Hi there, I’m Germano Costa! @GermanoCostaUX
-- I am a User Experience (UX) Designer with a professional certificate developed by Google (https://grow.google/) developer with 3 years of experience working with different design tools, such as FIGMA and ADOBE.
-- I am pursuing a BA in Telematics. Currently focused on iOS Mobile Development using XCode and Swift to create apps for iOS. 
-- I am aldo an enthusiast of WEB3/Blockchain technologies, and I try to master it as much as possible!
-- 
-- I have a vision, and it is defined by: "Lo-Fi it until you Hi-Fi it!"
--  
-- I trully believe in "the power of change through Design and Technology."
-- I always ask myself How Can Design and Technology help us create a better version of this world?
-- 
-- This answer cannot always be straightfoward...After 15 years researching and working in the area of ​​Adaptation to Climate Change. 
-I chose to make a career change during the COVID-19 pandemic. As the reopening of the post-pandemic world unfolded, I was fortunate enough to step into the tech arena, specifically iOS Mobile Development and UX Design, supported by training programs from Apple, Google and IFCE. 
-Without putting aside my devotion to environmental and climate issues, I embraced a new field of knowledge (UX Engineering), where I sought to combine my expertise in Sustainable Development with the rapidly growing field of user experience (#UX) design and engineering! 
-I would like to invite you to come with me on this inspiring journey of learning and sharing to see if and how design and technology can help us change the world to its best version?!
-- 
-- 👀 I’m interested in DESIGN + TECH using WEB3/Blockchain solutions.
-- 🌱 I’m currently learning iOS Mobile Development, in a training program at the NNT-iOS by IFCE-fortaleza.
-- 💞️ I’m looking to collaborate on topics that combine my expertise in Sustainable Development with the rapidly growing field of user experience (#UX) design and engineering! 
-- 📫 How to reach me -> LInkedin: www.linkedin.com/in/germanocosta and GMAIL: cgermano.fcosta.nnt@gmail.com
-
-<!---
-GermanoCostaUX/GermanoCostaUX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" width="300" height="200" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="200"/>
+</div>
+<div id="badges" align="center">
+<a href="https://www.linkedin.com/in/germanocosta/" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+  </a>
+  <a href="mailto:cgermano.fcosta.nnt@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+  </a> 
+  <a href="https://twitter.com/GermanoCostaUX" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="max-width: 100%;">
+  </a>
+</div>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=GermanoCostaUX&style=flat-square&color=blue" alt=""/>
+  </div>
+<hr></hr>
+<div id="main-title" align="center">
+  <h1> Hey there! <br>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  </div>
+  <div id="main-title" align="center">
+   <h1>I am Germano Costa. <br>
+    I am a FREElancer UX Designer and iOS Mobile Developer!
+  </h1>
+  </div>
+  <hr></hr>
+  <div id="about-me" align="center">
+  <h2>:man_technologist: About Me :</h2>
+  </div>
+  <div>
+  <h1>
+    Work as UX Designer!
+  </h1>
+  <div>
+    <div id="ux-gif" align="center">
+  <img src="https://media.giphy.com/media/0IAPszdB8MMjPxNhFL/giphy.gif" width="500" height="480"/>
+  <img src="https://media.giphy.com/media/8QGTPddH9geo4Ty2kK/giphy.gif" />
+</div>
+  </div>
+  </div>
