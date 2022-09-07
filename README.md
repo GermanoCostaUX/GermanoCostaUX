@@ -54,6 +54,7 @@
 </div>
 <hr></hr>
 <div>
+<div>
   <h1 id="sub-title" align="center">
     Work as iOS Developer!
   </h1>
@@ -64,16 +65,31 @@
 </div>
 <br></br>
 <div id="description-1" align="center">
-<p>I am pursuing a BA in Telematics. Currently focused on iOS Mobile Development using XCode and Swift to create apps for iOS, in the <strong><a href="https://www.linkedin.com/company/novosneg%C3%B3ciostic/" rel="nofollow">Novos Negócios em T.I.C.</a></strong>, from <strong><a href="https://ifce.edu.br/fortaleza" rel="nofollow">IFCE-Fortaleza</a></strong>.</p><p><p>Special thanks to: <strong><a href="https://www.linkedin.com/in/mateus-sales-1b54ba119/" rel="nofollow">Mateus Sales</a></strong></p></p>
+<p>I am pursuing a BA in Telematics. Currently focused on iOS Mobile Development using XCode and Swift to create apps for iOS, in the <strong><a href="https://www.linkedin.com/company/novosneg%C3%B3ciostic/" rel="nofollow">Novos Negócios em T.I.C.</a></strong>, from <strong><a href="https://ifce.edu.br/fortaleza" rel="nofollow">IFCE-Fortaleza</a></strong>.</p><p><p>Special thanks to: <strong><a href="https://www.linkedin.com/in/mateus-sales-1b54ba119/" rel="nofollow">Mateus Sales</a></strong></p>
+</div>
+</div>
+
+<div>
+<div>
+  <h1 id="sub-title" align="center">
+    Work as Web3/Blockcgain Dev!
+  </h1>
+  </div>
+    <div id="ux-gif" align="center">
+    <img src="https://media.giphy.com/media/Wu4TiWLLFqxk4KMRiU/giphy.gif" width="300" height="300"/>
+    <img src="https://media.giphy.com/media/0GhNSuCGvkyEYTDn7U/giphy.gif" width="350" height="300"/>
+</div>
+<br></br>
+<div id="description-1" align="center">
 <p>I am also an enthusiast of WEB3/Blockchain technologies, and I try to master it as much as possible! Having pursued the Blockchain Engineer Training: <strong><a href="https://www.datascienceacademy.com.br/" rel="nofollow">Data Science Academy</a></strong>, and Web3 and Blockchain Free Courses on <strong><a href="https://www.freecodecamp.org/news/tag/blockchain" rel="nofollow">freeCodeCamp</a></strong>.</p><p>Special thanks to: <strong><a href="https://twitter.com/PatrickAlphaC" rel="nofollow">Patrick Collins</a></strong></p>
 <p></p>
+</div>
 </div>
 <hr></hr>
 <div>
 <div>
   <h1 id="sub-title" align="center"> :hammer_and_wrench: Languages and Tools </h1> 
   </div>
-  
   <div>
     <div>
       <h2>UX/UI Design</h2>
@@ -92,7 +108,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="aftereffects" alt="aftereffects" width="40" height="40"/>&nbsp;
    </div> 
   </div>
-  
   <div>
     <div>
       <h2>WeB Dev/Web Dev/Web3</h2>
@@ -116,7 +131,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
   </div>
   </div>
-  
   <div>
     <div>
       <h2>Mobile Development</h2>
@@ -131,3 +145,29 @@
   </div>
   </div>
  </div>
+ <hr></hr>
+<div id="my-stats" align="center">
+  <div id="my-stats-1" align="center">
+  <h1>:fire: My Statistics</h1> 
+  </div>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GermanoCostaUX&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+ 
+  </div>
+  <div id="my-stats-1" align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoCostaUX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
+</div>
+<hr></hr>
+<div id="thank-you" align="center">
+  <div id="thank-you" align="center"><h1>:thumbsup: Thank You</h1></div>
+  <div>
+  <img src="https://media.giphy.com/media/eiMn6aBwpkSCffKOG0/giphy.gif" width="650" height="100"/>
+  </div>
+   <div>
+    <img src="https://media.giphy.com/media/3ornk02pJG7qEh2yis/giphy.gif" width="300" height="300"/>
+    <img src="https://media.giphy.com/media/zoR5gOUIri6lj1nNAU/giphy.gif" width="350" height="300"/>
+  </div>
+</div>
