@@ -64,13 +64,8 @@
 </div>
 <br></br>
 <div id="description-1" align="center">
-<p>I am pursuing a BA in Telematics. Currently focused on iOS Mobile Development using XCode and Swift to create apps for iOS, in the <strong><a href="https://www.linkedin.com/company/novosneg%C3%B3ciostic/" rel="nofollow">Novos Negócios em T.I.C.</a></strong>, from <strong><a href="https://ifce.edu.br/fortaleza" rel="nofollow">IFCE-Fortaleza</a></strong>.</p>
-<p>I am also an enthusiast of WEB3/Blockchain technologies, and I try to master it as much as possible! Having pursued the Blockchain Engineer Training: <strong><a href="https://www.datascienceacademy.com.br/" rel="nofollow">Data Science Academy</a></strong>, and the Free Courses on <strong><a href="https://www.freecodecamp.org/news/tag/blockchain" rel="nofollow">freeCodeCamp</a></strong></p>
+<p>I am pursuing a BA in Telematics. Currently focused on iOS Mobile Development using XCode and Swift to create apps for iOS, in the <strong><a href="https://www.linkedin.com/company/novosneg%C3%B3ciostic/" rel="nofollow">Novos Negócios em T.I.C.</a></strong>, from <strong><a href="https://ifce.edu.br/fortaleza" rel="nofollow">IFCE-Fortaleza</a></strong>.</p><p><p>Special thanks to: <strong><a href="https://www.linkedin.com/in/mateus-sales-1b54ba119/" rel="nofollow">Mateus Sales</a></strong></p></p>
+<p>I am also an enthusiast of WEB3/Blockchain technologies, and I try to master it as much as possible! Having pursued the Blockchain Engineer Training: <strong><a href="https://www.datascienceacademy.com.br/" rel="nofollow">Data Science Academy</a></strong>, and Web3 and Blockchain Free Courses on <strong><a href="https://www.freecodecamp.org/news/tag/blockchain" rel="nofollow">freeCodeCamp</a></strong>.</p><p>Special thanks to: <strong><a href="https://twitter.com/PatrickAlphaC" rel="nofollow">Patrick Collins</a></strong></p>
 <p></p>
 </div>
 <hr></hr>
-  
-<g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"><img class="emoji" alt="telescope" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"></g-emoji>
-
-<strong><a href="https://grow.google/" rel="nofollow">Grow With Google - Career Certificates</a></strong>
-
