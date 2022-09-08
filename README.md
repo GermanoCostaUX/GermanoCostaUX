@@ -110,7 +110,7 @@
   </div>
   <div>
     <div>
-      <h2>WeB Dev/Web Dev/Web3</h2>
+      <h2>WeB Design/Web3 Dev</h2>
     </div>
     <div id="stacks" align="center">
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
