@@ -72,7 +72,7 @@
 <div>
 <div>
   <h1 id="sub-title" align="center">
-    Work as Web3/Blockcgain Dev!
+    Work as Web3/Blockchain Dev!
   </h1>
   </div>
     <div id="ux-gif" align="center">
