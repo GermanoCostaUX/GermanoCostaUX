@@ -20,7 +20,7 @@
   </div>
   <div id="main-title" align="center">
    <h1>I am Germano Costa. <br>
-    <p>I am a FREElancer UX Designer and iOS Mobile Developer!</p>
+    <p>I am a FREElance UX Designer and a Junior iOS Mobile Developer!</p>
     </h1>
     <h3>
     <p>I am a Full Stack Web developer with 3 years of experience working with different technologies ranging from HTML5, CSS3, JS, Web3/Blockchain to Swift and XCode for iOS Mobile Development. Currently, I am focused on the ecosystem - from Design to Code - that makes possible Mobile Development using iOS!!!</p>
