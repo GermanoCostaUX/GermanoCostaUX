@@ -48,7 +48,7 @@
 </div>
 <br></br>
 <div id="description-1" align="center">
-<p>I am a User Experience (UX) Designer with a Professional Certificate developed by <strong><a href="https://grow.google/" rel="nofollow">Grow With Google - Career Certificates</a></strong>, with 3 years of experience working with different design tools, such as FIGMA and ADOBE.</p>
+<p>I am a User Experience (UX) Designer with a Professional Certificate developed by <strong><a href="https://grow.google/" rel="nofollow">Grow With Google - Career Certificates</a></strong>, with 3 years of experience working with different design tools, such as FIGMA and ADOBE XD.</p>
 <p></p>
 <p></p>
 </div>
