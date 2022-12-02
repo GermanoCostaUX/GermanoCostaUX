@@ -10,17 +10,17 @@
   <a href="https://twitter.com/GermanoCostaUX" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="max-width: 100%;">
   </a>
   <a href="https://dribbble.com/Germano_Costa" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=red alt=dribbble style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/germanocosta" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=blue alt=behance style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@GermanoCosta" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=red alt=medium style="margin-bottom: 5px;" />
+<a href="https://medium.com/@GermanoCostaUX" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/germanocostaux" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=blue alt=codepen style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>  
 </div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=GermanoCostaUX&style=flat-square&color=blue" alt=""/>
@@ -171,6 +171,11 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoCostaUX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
+  
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GermanoCostaUX&show_icons=true&count_private=true&hide_border=true" align="center" />
+  </div>
+  
 </div>
 <hr></hr>
 <div id="thank-you" align="center">
