@@ -22,6 +22,9 @@
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>
+<div id="buymecoffee" align="center">
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="GermanoCostaUX" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+</div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=GermanoCostaUX&style=flat-square&color=blue" alt=""/>
   </div>
@@ -187,4 +190,8 @@
     <img src="https://media.giphy.com/media/3ornk02pJG7qEh2yis/giphy.gif" width="300" height="300"/>
     <img src="https://media.giphy.com/media/zoR5gOUIri6lj1nNAU/giphy.gif" width="350" height="300"/>
   </div>
+</div>
+<div id="donation-qr" align="center">
+  <img src="https://www.buymeacoffee.com/GermanoCostaUX" width="400" height="300"/>
+  <img src="https://www.paypal.com/donate/?hosted_button_id=F7YVAF9H8V9CY" width="400" height="300"/>
 </div>
