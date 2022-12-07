@@ -3,27 +3,27 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="200"/>
 </div>
 <div id="badges" align="center">
-<a href="https://www.linkedin.com/in/germanocosta/" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/ux-germano-costa/" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="mailto:cgermano.fcosta.nnt@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
+  <a href="mailto:ux.germano.costa@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
   </a> 
-  <a href="https://twitter.com/GermanoCostaUX" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="max-width: 100%;">
+  <a href="https://twitter.com/ux_GermanoCosta" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="max-width: 100%;">
   </a>
-  <a href="https://dribbble.com/Germano_Costa" target="_blank">
+  <a href="https://dribbble.com/ux_germano_costa" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/germanocosta" target="_blank">
+<a href="https://www.behance.net/ux_germano_costa" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@GermanoCostaUX" target="_blank">
+<a href="https://medium.com/@ux_germano_costa" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/germanocostaux" target="_blank">
+<a href="https://codepen.com/ux-germano-costa" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>
   <div align="center">
-            <a href="https://www.buymeacoffee.com/GermanoCostaUX" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/ux_GermanoCosta" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
@@ -171,17 +171,17 @@
   <h1>:fire: My Statistics</h1> 
   </div>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GermanoCostaUX&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ux-germano-costa&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
   </div>
   <div id="my-stats-1" align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanoCostaUX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ux-germano-costa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
   
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GermanoCostaUX&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ux-germano-costaUX&layout=compact&theme=vision-friendly-dark&show_icons=true&count_private=true&hide_border=true"/>
   </div>
   
 </div>
