@@ -41,8 +41,8 @@
   <div id="main-title" align="center">
    <h1>My name is Germano Costa.</h1> <br>
     <h2>
-    <p>I'm a UX Designer and Web Dev based in Fortaleza, Brazil. I research on User Experience for Mobile Apps and Responsive Websites inspired by the human nature. I've worked on a variety of projects, with 3 years of experience working with different technologies ranging from HTML5, CSS3, JS, Web3/Blockchain to Swift and XCode for iOS Mobile Development. I am focused on the ecosystem - from Design to Code - that makes possible Human-Centered Design for Mobile Development</p>
-  </h2>
+    <p>I'm a <strong><a href="https://grow.google/certificates/ux-design/#?modal_active=none" rel="nofollow">Google Certified UX/UI Designer</a></strong> and <strong><a href="https://www.freecodecamp.org/fcc010a69a5-db09-4185-a2c5-6d438c2324ea" rel="nofollow">Full Stack Web Dev</a></strong> based in Fortaleza, Brazil. I research on User Experience for Mobile Apps and Responsive Websites inspired by the human nature. I've worked on a variety of projects, with 3 years of experience working with different technologies ranging from HTML5, CSS3, JS, Web3/Blockchain to Swift and XCode for iOS Mobile Development. I am focused on the ecosystem - from Design to Code - that makes possible Human-Centered Design for Mobile Development</p>
+  </h2>   
   </div>
   <hr></hr>
   <div id="about-me" align="center">
