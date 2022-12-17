@@ -43,7 +43,7 @@
     <p>I am a FREElance UX Designer and a Junior iOS Mobile Developer!</p>
     </h1>
     <h3>
-    <p>I am a Full Stack Web developer with 3 years of experience working with different technologies ranging from HTML5, CSS3, JS, Web3/Blockchain to Swift and XCode for iOS Mobile Development. Currently, I am focused on the ecosystem - from Design to Code - that makes possible Mobile Development using iOS!!!</p>
+    <p>My name is Germano Costa. I'm a UX Designer and Web Dev based in Fortaleza, Brazil. I research on User Experience for Mobile Apps and Responsive Websites inspired by the human nature. I've worked on a variety of projects, with 3 years of experience working with different technologies ranging from HTML5, CSS3, JS, Web3/Blockchain to Swift and XCode for iOS Mobile Development. I am focused on the ecosystem - from Design to Code - that makes possible Human-Centered Design for Mobile Development</p>
   </h3>
   </div>
   <hr></hr>
