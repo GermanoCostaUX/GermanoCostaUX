@@ -39,12 +39,10 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   </div>
   <div id="main-title" align="center">
-   <h1>I am Germano Costa. <br>
-    <p>I am a FREElance UX Designer and a Junior iOS Mobile Developer!</p>
-    </h1>
-    <h3>
-    <p>My name is Germano Costa. I'm a UX Designer and Web Dev based in Fortaleza, Brazil. I research on User Experience for Mobile Apps and Responsive Websites inspired by the human nature. I've worked on a variety of projects, with 3 years of experience working with different technologies ranging from HTML5, CSS3, JS, Web3/Blockchain to Swift and XCode for iOS Mobile Development. I am focused on the ecosystem - from Design to Code - that makes possible Human-Centered Design for Mobile Development</p>
-  </h3>
+   <h1>My name is Germano Costa.</h1> <br>
+    <h2>
+    <p>I'm a UX Designer and Web Dev based in Fortaleza, Brazil. I research on User Experience for Mobile Apps and Responsive Websites inspired by the human nature. I've worked on a variety of projects, with 3 years of experience working with different technologies ranging from HTML5, CSS3, JS, Web3/Blockchain to Swift and XCode for iOS Mobile Development. I am focused on the ecosystem - from Design to Code - that makes possible Human-Centered Design for Mobile Development</p>
+  </h2>
   </div>
   <hr></hr>
   <div id="about-me" align="center">
